@@ -1,4 +1,4 @@
-var fetch = angular.module("myApp", []);
+/*var fetch = angular.module("myApp", []);
 
 fetch.controller("myCtrl", [
   "$scope", "$http",
@@ -10,4 +10,4 @@ fetch.controller("myCtrl", [
       $scope.names = response.data;
     });
   },
-]);
+]);*/
