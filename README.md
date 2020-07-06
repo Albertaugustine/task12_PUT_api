@@ -4,5 +4,5 @@ we use putdata.php to give the input through BODY tab in RESTer as in JSON forma
 We can use getdata.php to get the last name inputed to the table.
 And also the index.html page will display the same last name inputted in the table
 
-*Accesing RESTer:
+*Accessing RESTer:
 RESTer is available as an extension in the browser. Just search and download it for the speific browser.
