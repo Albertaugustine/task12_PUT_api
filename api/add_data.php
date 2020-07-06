@@ -9,7 +9,7 @@ require '../dbconfig.php';
 $put=file_get_contents('php://input');
 $data=(array)json_decode($put, true);
 
-//print_r($data[0]['name']);
+print_r($data[0]['Name']);
 
 $squery="INSERT INTO user (`Name`) VALUES ('".$data[0]['Name']."')";
 $result=$conn->query($squery);
