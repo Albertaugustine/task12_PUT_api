@@ -6,7 +6,7 @@ $conn=new mysqli("localhost","root","","intern");
     }
     else
     {
-        echo ("Connection success. ");
+        echo ("Connection success.  ");
     }
 
     
